@@ -1,3 +1,5 @@
+window.alert("Jasmine said \"It's raining outside\"")
+
 
 var A = "Hey, " + "how are you?", B = "Doing great, thanks!";
 var A = A.fontcolor("orange"), B = B.fontcolor("green");

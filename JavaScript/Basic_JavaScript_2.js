@@ -12,3 +12,12 @@ function myFunction() {
     sentence += " a lot from this book!";
     document.getElementById("Concatenate").innerHTML = sentence;
 }
+
+
+
+function colorchange() {
+    var a = getElementById("change");
+    a.fontcolor("yellow");
+    document.getElementById("change").innerHTML = a;
+}
+
