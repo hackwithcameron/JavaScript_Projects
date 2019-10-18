@@ -1,13 +1,17 @@
 * {box-sizing: border-box;}
 
 .slideshow-container {
-    max-width: 100%;
+    max-width: 1000px;
     position: relative;
     margin: auto;
 }
 
 .mySlides {
     display: none;
+}
+
+img {
+    vertical-align: middle;
 }
 
 .prev, .next {
