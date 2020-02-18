@@ -1,2 +1,4 @@
 # JavaScript Projects
-Some early drills to practice using Javascript in HTML documents.
+Drills to practice using Javascript in HTML documents.
+
+The HTML pages correspond with the same numbered JavaScript code in the JavaScript folder.
